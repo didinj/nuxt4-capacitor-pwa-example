@@ -1,6 +1,6 @@
 # Build a PWA with Nuxt 4 and Capacitor
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68fc3a096ec70a546d45da39/build-a-pwa-with-nuxt-4-and-capacitor).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
