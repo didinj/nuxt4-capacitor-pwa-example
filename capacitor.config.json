@@ -1,0 +1,6 @@
+{
+  "appId": "com.djamware.nuxt4pwa",
+  "appName": "Nuxt 4 PWA App",
+  "webDir": ".output/public",
+  "bundledWebRuntime": false
+}
